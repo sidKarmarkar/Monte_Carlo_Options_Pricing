@@ -1,9 +1,3 @@
-Here’s a detailed README file written with a university student's tone for your GitHub repository:
-
----
-
-# Options Pricing with Monte Carlo Simulation
-
 ## Overview
 
 This project implements a Monte Carlo simulation to price European call options using Python. The Monte Carlo method is widely used in quantitative finance to simulate the underlying asset prices over time and calculate the option's price based on these simulated outcomes.
