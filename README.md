@@ -10,7 +10,7 @@ This project is part of my personal learning journey in quantitative finance and
 
 ## Project Structure
 
-- `monte_carlo_options_pricing.py`: Main script that contains the implementation of the Monte Carlo simulation for pricing options.
+- `Monte_Carlo_Sim.ipynb`: Main script that contains the implementation of the Monte Carlo simulation for pricing options.
 - `README.md`: Documentation for the project, including setup instructions and an explanation of the code.
   
 ---
@@ -20,16 +20,6 @@ This project is part of my personal learning journey in quantitative finance and
 - **European Call Option**: A type of option that gives the holder the right, but not the obligation, to buy an asset at a specified price (strike price) on a specific date (maturity).
 - **Monte Carlo Simulation**: A computational technique that uses random sampling to estimate mathematical quantities. In this project, it simulates possible stock price paths and calculates the average payoff to estimate the option price.
 - **Geometric Brownian Motion (GBM)**: A stochastic process used to model stock price movements over time, assuming that returns are normally distributed and that stock prices follow a continuous path.
-  
----
-
-## Requirements
-
-This project uses Python and a few standard libraries. To install the necessary libraries, you can use `pip`:
-
-```bash
-pip install numpy matplotlib
-```
 
 ---
 
@@ -50,7 +40,7 @@ In this implementation, the following parameters are used:
 To run the Monte Carlo simulation for pricing a European call option, simply execute the `monte_carlo_options_pricing.py` script:
 
 ```bash
-python monte_carlo_options_pricing.py
+Monte_Carlo_Sim.ipynb
 ```
 
 The script will simulate stock price paths and estimate the option price based on the average discounted payoff from all the simulations.
@@ -121,9 +111,6 @@ This project provides a basic yet powerful framework for pricing European call o
 Feel free to fork the repo, play around with the code, and reach out if you have any questions or ideas for improvements!
 
 ---
-
-### License
-
 This project is open-source under the MIT License, so feel free to use it for educational purposes or to build upon it.
 
 ---
