@@ -107,8 +107,4 @@ Monte Carlo simulations are particularly useful for pricing complex derivatives 
 ## Conclusion
 
 This project provides a basic yet powerful framework for pricing European call options using Monte Carlo simulations. By experimenting with different parameters and methods, it offers a solid introduction to quantitative finance and the practical applications of Python in financial modeling.
-
-Feel free to fork the repo, play around with the code, and reach out if you have any questions or ideas for improvements!
-
----
 Let me know if you'd like any additional information or changes for your README!
