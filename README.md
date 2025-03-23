@@ -111,8 +111,4 @@ This project provides a basic yet powerful framework for pricing European call o
 Feel free to fork the repo, play around with the code, and reach out if you have any questions or ideas for improvements!
 
 ---
-This project is open-source under the MIT License, so feel free to use it for educational purposes or to build upon it.
-
----
-
 Let me know if you'd like any additional information or changes for your README!
